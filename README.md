@@ -1,2 +1,25 @@
-# 99b9dd36-github-actions-cicd-proposa
-github actions professionals waste hours on starting from a blank document every single time. This fixes that.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Github Actions &amp; Ci/Cd Proposal And Contract Template — fully configured and re
+# GitHub Actions & CI/CD Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ14n12D5wg09a8nGcZq3k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ14n12D5wg09a8nGcZq3k)
+
